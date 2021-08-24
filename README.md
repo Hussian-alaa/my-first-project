@@ -2,3 +2,7 @@
 my first project git
 
 ##first
+
+
+    System.out.print("اعداد" );
+
